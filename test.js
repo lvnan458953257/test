@@ -18,9 +18,11 @@
      return false;
     };
   
-    document.querySelectorAll(".zbtn").forEach(function(img) {
-      img.addEventListener("contextmenu", function(e){
-          e.preventDefault();
-      });
+    document.addEventListener("DOMContentLoaded", function(){
+        document.querySelectorAll(".zbtn").forEach(function(img) {
+            img.addEventListener("contextmenu", function(e){
+                e.preventDefault();
+            });
+        });
     });
 })();
