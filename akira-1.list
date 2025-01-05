@@ -7,15 +7,6 @@ DOMAIN-SUFFIX,auth0.openai.com
 DOMAIN-SUFFIX,platform.openai.com
 DOMAIN-SUFFIX,chatgpt.com
 
-
-DOMAIN-SUFFIX,hcaptcha.com
-DOMAIN-SUFFIX,recaptcha.net
-
-DOMAIN-SUFFIX,sfx.ms
-DOMAIN-SUFFIX,microsoft.com
-DOMAIN-SUFFIX,oaistatic.com
-DOMAIN-SUFFIX,oaiusercontent.com
-
 # Add Anthropic
 DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN-SUFFIX,anthropic.com
